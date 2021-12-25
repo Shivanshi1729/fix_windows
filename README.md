@@ -39,7 +39,9 @@ in the package manager.
 - sumatra pdf reader
   - light weight pdf reader
   - [https://www.sumatrapdfreader.org/free-pdf-reader](https://www.sumatrapdfreader.org/free-pdf-reader)
-
+- libreoffice
+  - for documents, presentations, and editing pdf
+  - [https://www.libreoffice.org/](https://www.libreoffice.org/)
 
 ## `fix_desktop()`
 
