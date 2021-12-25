@@ -104,7 +104,7 @@ return
 - We don't use `Capslock` that often, so i switched it with `Esc`
 
 ```ahk
-; stop capslock
+; switch capslock with esc key
 Capslock::Esc
 ```
 
