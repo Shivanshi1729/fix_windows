@@ -1,8 +1,8 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Found something missing, please contribute
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+[fix-windows](https://github.com/Shivanshi1729/fix_windows)
 &mdash;
 this site is [open source]({{ site.source_link }})
 

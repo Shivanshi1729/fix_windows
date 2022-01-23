@@ -1,8 +1,8 @@
 ---
-title: "software"
-bg: purple
+title: "shortcuts"
+bg: shade7
 color: white
-fa-icon: cloud-upload
+fa-icon: keyboard-o
 ---
 
 Make another autohotkey file for this `shortcut.ahk` and add this to startup.
